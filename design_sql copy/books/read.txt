@@ -21,8 +21,6 @@ Associated Function
 
 getAllBooksByGenre
 
-getAllBooks
-
 Data Requirements
 
 DB
